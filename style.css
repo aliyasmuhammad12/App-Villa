@@ -1,0 +1,365 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa:wght@600&family=Open+Sans&family=Playpen+Sans:wght@200&family=Quicksand:wght@700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+.background{
+    background-color: #FF6B81;
+    width: 100%;
+    height: 100%;
+}
+.navbar-brand{
+    font-size: 32px;
+}
+.nav-link{
+    font-size: 16px;
+}
+.submit{
+    
+    font-size: 16px;
+    padding: 12px 25px;
+    border: 2px solid white;
+    border-radius: 10px;
+  
+}
+.appstore{
+    font-size: 18px;
+    background-color: white;
+    padding: 6px 12px;
+    color: #FF6B81;
+    width: 200px;
+}
+.google{
+    font-size: 18px;
+    background-color: transparent;
+    border: 1px solid white;
+    padding: 6px 12px;
+    color: white;
+    width: 200px;
+}
+.left-text{
+    margin-top: 90px;
+}
+/* second page */
+.cardsbg{
+    background-color: #F9F9F9;
+    width: 100%;
+
+}
+.features{
+    color: #FF6B81;
+}
+.text-features{
+    padding-top: 80px;
+}
+
+.cardss{
+    margin-top: 50px;
+
+}
+.icons{
+  width: 60px;
+  height: 60px;
+  background-color: #FF6B81;
+  border-radius: 10px; 
+  padding: 10px; 
+  margin: 25px 17px 17px 17px; 
+}
+.apple{
+    font-size: 25px;
+    margin-top: 6px;
+}
+
+.card-bottom {
+    padding-bottom: 80px;
+}
+
+/* third page */
+.get-started{
+    width: 120px;
+    background-color: #FF6B81;
+    
+}
+.left-image2{
+    /* margin-left: 100px !important; */
+    margin-top: 90px !important;
+}
+.application{
+    margin-top: 140px !important;
+}
+.botom-row{
+   padding-bottom: 70px;
+}
+
+/* fifth page */
+.fifth-bg{
+    background-color: #FF6B81;
+    width: 100%;
+    height: 100%;
+}
+.top{
+    padding-top: 70px !important;
+}
+
+/* sixth page */
+
+.cardsbg2{
+    background-color: #F9F9F9;
+    width: 100%;
+    
+}
+.text-pricing{
+    padding-top: 70px;
+    padding-bottom: 70px;
+    width: 472.4px;
+}
+.freelancerbg{
+    padding-bottom: 40px;
+}
+.card-body{
+    display: flex;
+    flex-direction: column;
+    flex: 1 1 auto;
+}
+.row {
+    --bs-gutter-x: 0rem;
+}
+.cardw{
+    width: 18rem !important;
+    height: 486px !important;
+    border: 1px solid #C9C8C8;
+}
+
+/* seventh page */
+.pic-card{
+    padding-bottom: 70px;
+}
+.text-pricing2{
+    padding-top: 70px;
+    /* padding-bottom: 70px; */
+    width: 472.4px;
+}
+
+/* eight pAge */
+.ayro-bg{
+    background-color: #F9F9F9;
+    width: 100%;
+    height: 100%;
+}
+.circleimg{
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+}
+.ayro-h{
+    width: 470px;
+}
+/* nine */
+.pinkbg{
+    background-color: #FF6B81;
+    width: 100%;
+    height: 100%;
+}
+.pinktext{
+    padding-top: 60px;
+    width: 500px;
+
+}
+/* page ten */
+.paraw{
+    width: 472.05px;
+    height: 48px;
+}
+.num{
+    width: 30px;
+    height:30px;
+    border-radius: 50%;
+    border: 1px solid  rgb(206, 205, 205);
+}
+.accordion-button:not(.collapsed){
+    background-color: #FF6B81;
+    color: white;
+
+}
+.accordion-button{
+    border: 1px solid #D6D3D3;
+}
+
+
+.accordion{
+ padding-bottom: 70px !important; 
+ /* margin-bottom: 70px;   */
+}
+/* page eleven */
+.blog_bg{
+    background-color: #F9F9F9;
+    width: 100%;
+    padding-bottom: 70px;
+}
+.text-blogs{
+    padding-top: 70px;
+    padding-bottom: 30px;
+    width: 472.4px;
+}
+.sarah{
+    font-size: 14px;
+    color: rgb(127, 126, 126);
+    margin-left: 1rem;
+}
+.apps-w{
+    width: 157px;
+    height: 70px;
+}
+.appss{
+    padding: 70px 0;
+    
+}
+/* footer */
+.footer1{
+    padding: 70px 70px;
+/* padding-left: 15px; */
+}
+.twitter{
+    gap: 30px !important;
+}
+.fa-twitter{
+    gap: 5;
+}
+.marketing{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+
+    line-height: 15px;
+}
+.ul-text{
+    color: #C9C8C8;
+}
+.border{
+    border: 2px solid white;
+}
+.subscribe-but{
+    background-color: #FF6B81;
+    
+}
+.input-sub{
+    width: 260px;
+    height: 60px;
+    border-radius: 5px;
+    border: none;
+    background-color: #394653;
+}
+.subscribe-but{
+    width: 200px;
+    height: 60px;
+    border-radius: 5px;
+}
+.ending{
+    gap:20px;
+}
+.icon-last{
+    width: 60px;
+    height: 60px;
+    background-color: #FF6B81;
+    border-radius: 10px; 
+    padding: 10px; 
+    margin: 25px 17px 0px 17px;
+    padding-bottom: 17px; 
+  }
+
+
+
+
+
+
+@media screen and (max-width:600px) {
+    .h1text{
+        text-align: center;
+        align-items: center;
+        margin-left: 30px;
+    }
+    
+    .body h1{
+        font-size: 30px !important;
+        width: 70%;
+        text-align: center;
+        margin-left: 40px;
+
+    }
+    /* second page */
+    .text-features{
+        width: 80%;
+    }
+    .cardsw{
+        width: 70% !important;
+    }
+    .card-body{
+        padding: 10px;
+    }
+    /* third page */
+    .application{
+        padding: 50px;
+        margin-top: 0 !important;
+    }
+    .application-img{
+        padding: 50px;
+    }
+
+    /* fifth page */
+    .planets{
+        font-size: 30px;
+    }
+    /* sixth page */
+    .text-pricing{
+        width: 80%;
+    }
+    .card-body{
+        padding: 1rem 1rem;
+    }
+    /* seventh page */
+    .text-pricing{
+        width: 70%;
+
+    }
+    /* eight page */
+    .ayro-h{
+        width: 100%;
+    }
+    /* page nine */
+    .pinktext{
+        width: 100%;
+    }
+    .apps{
+        display: flex;
+        gap: 20px;
+    }
+    /* ,links */
+    .links{
+
+        padding: 40px 40px 0 40px !important;
+    }
+.ul-text{
+    padding: 20px 30px 30px 0;
+}
+
+    /* ending */
+    .subscribe{
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 20px;
+        /* margin-left: 100px; */
+    }
+    .ending{
+        display: flex;
+        flex-direction: column;
+        
+    }
+    .subscribe-but{
+        margin-top: 20px;
+        width: 260px ;
+
+    }
+}
